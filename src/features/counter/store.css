@@ -1,0 +1,27 @@
+.card_post {
+
+
+
+    /* 5px rounded corners */
+
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* background-color: #2196F3; */
+    padding: 80px;
+    grid-gap: 20px;
+
+}
+
+
+.card_post1 {
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 red;
+    transition: 0.3s;
+    border-radius: 5px;
+    background-color: aquamarine;
+
+
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
